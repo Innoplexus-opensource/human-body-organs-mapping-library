@@ -5,12 +5,18 @@
 ✅ 30+ Organs | ✅ Male/Female SVGs | ✅ Real-Time Highlighting | ✅ Medical Terminology  
 
 ## Installation ⚙️  
+Using npm:
+```bash
 npm install human-body-organs-mapping-library
+```
 
-or
+Using yarn:
+```bash
 yarn add human-body-organs-mapping-library
+```
 
 ## Usage 🚀  
+```javascript
 import React from 'react';
 import HumanBodyComponents from 'human-body-organs-mapping-library';
 
@@ -21,7 +27,7 @@ function App() {
         </div>
     );
 }
-
+```
 ---
 
 ## Core Component: HumanBodyComponents 🔧  
@@ -71,3 +77,8 @@ src/
 │ ├── MaleSVG.js
 │ └── FemaleSVG.js
 └── index.js # Main export
+
+Authors
+===============
+
+1. Sumit Didhate, `Innoplexus [https://www.innoplexus.com/]`__.
