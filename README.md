@@ -81,4 +81,4 @@ src/
 Authors
 ===============
 
-1. Sumit Didhate, `Innoplexus [https://www.innoplexus.com/]`__.
+1. Sumit Didhate, Innoplexus [https://www.innoplexus.com/]
